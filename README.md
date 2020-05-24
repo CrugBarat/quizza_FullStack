@@ -23,7 +23,9 @@ The desktop browser app has 3 board game types with each allowing a maximum of 4
 
 This was a group exercise, completed with two other devs. It was tasked to us by CodeClan, Glasgow where we studied towards a PDA Level 8 in Professional Software Development. The exercise brief can be found below.
 
-QuizzA Team:
+---
+
+# QuizzA Team
 
 - [Crug](https://www.linkedin.com/in/craig-t-barratt/)
 - [Francesco](https://github.com/Ciccillo73)
@@ -62,7 +64,7 @@ A tongue-in-cheek board game, which uses Glasgow slang as prompts. As the name s
 
 ---
 
-# Brief
+# Project Brief
 
 Create a browser game based on an existing card or dice game. Model and test the game logic and then display it in the browser for a user to interact with.
 
@@ -95,7 +97,7 @@ A user should be able to:
 
 ---
 
-# Setup
+# Repo Setup
 
 - Download/Clone files
 
