@@ -23,8 +23,6 @@ The desktop browser app has 3 board game types with each allowing a maximum of 4
 
 This was a group exercise, completed with two other devs. It was tasked to us by CodeClan, Glasgow where we studied towards a PDA Level 8 in Professional Software Development. The exercise brief can be found below.
 
-[Original Repo](https://github.com/Mitictonylor/Quizza)
-
 ---
 
 # QuizzA Team
@@ -32,6 +30,8 @@ This was a group exercise, completed with two other devs. It was tasked to us by
 - [Crug](https://www.linkedin.com/in/craig-t-barratt/)
 - [Francesco](https://github.com/Ciccillo73)
 - [Antonio](https://github.com/Mitictonylor)
+
+[Original Repo](https://github.com/Mitictonylor/Quizza)
 
 ---
 
