@@ -17,7 +17,7 @@ A full stack Trivia browser board game built using:
 
 **Markup/Styling**: HTML5/CSS3
 
-**Production Demo**: [Heroku App](https://quizza-trivia-game.herokuapp.com/)
+**Production Demo**: [Heroku App](https://quizza-trivia-game.herokuapp.com/) 
 
 The desktop browser app has 3 board game types with each allowing a maximum of 4 players. The board games are turn based with each player having the ability to roll a dice, move position on the board and answer a question. The questions are sourced from a HTTP REST API. The app also boasts a Hall of Fame page, which stores a player's name with their high score. This data is stored locally, using MongoDb. The app was completed in 6 days.
 
@@ -30,6 +30,8 @@ This was a group exercise, completed with two other devs. It was tasked to us by
 - [Crug](https://www.linkedin.com/in/craig-t-barratt/)
 - [Francesco](https://github.com/Ciccillo73)
 - [Antonio](https://github.com/Mitictonylor)
+
+[Original Repo](https://github.com/Mitictonylor/Quizza)
 
 ---
 
